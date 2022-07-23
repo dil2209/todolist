@@ -1,0 +1,17 @@
+.user:hover{
+    background-color: mediumslateblue;
+    color: midnightblue;
+    cursor: pointer;
+ 
+
+}
+.sider li{
+    color:midnightblue;
+    font-size: 20px;
+    background-color: lightcoral;
+}
+.sider .activeselect{
+    background-color: mediumpurple;
+    color: midnightblue;
+   
+}

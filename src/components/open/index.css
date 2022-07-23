@@ -1,0 +1,13 @@
+.open{
+    background-color: lightgray;
+
+}
+.addCard{
+    font-size:10px !important;
+}
+.taskOpen{
+    box-sizing: border-box;
+    box-shadow: 0 2px 2px gray;
+    background-color: white;
+
+}
